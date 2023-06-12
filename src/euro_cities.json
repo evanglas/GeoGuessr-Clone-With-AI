@@ -1,0 +1,4187 @@
+[
+  {
+    "Index": 0,
+    "Image": "image0",
+    "Latitude": 55.75199595,
+    "Longitude": 37.6102206,
+    "City": "Moscow",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 1,
+    "Image": "image1",
+    "Latitude": 51.50882693,
+    "Longitude": -0.124181207,
+    "City": "London",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 2,
+    "Image": "image2",
+    "Latitude": 59.9363794,
+    "Longitude": 30.31762065,
+    "City": "Saint Petersburg",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 3,
+    "Image": "image3",
+    "Latitude": 52.52400603,
+    "Longitude": 13.41083023,
+    "City": "Berlin",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 4,
+    "Image": "image4",
+    "Latitude": 40.41671215,
+    "Longitude": -3.702288254,
+    "City": "Madrid",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 5,
+    "Image": "image5",
+    "Latitude": 50.45364682,
+    "Longitude": 30.52140976,
+    "City": "Kiev",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 6,
+    "Image": "image6",
+    "Latitude": 41.89267025,
+    "Longitude": 12.5077075,
+    "City": "Rome",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 7,
+    "Image": "image7",
+    "Latitude": 48.85344257,
+    "Longitude": 2.349074433,
+    "City": "Paris",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 8,
+    "Image": "image8",
+    "Latitude": 44.43229807,
+    "Longitude": 26.10568191,
+    "City": "Bucharest",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 9,
+    "Image": "image9",
+    "Latitude": 53.90509596,
+    "Longitude": 27.56179644,
+    "City": "Minsk",
+    "Country": "Belarus",
+    "Country Abbreviation": "BY"
+  },
+  {
+    "Index": 10,
+    "Image": "image10",
+    "Latitude": 47.49869347,
+    "Longitude": 19.04038938,
+    "City": "Budapest",
+    "Country": "Hungary",
+    "Country Abbreviation": "HU"
+  },
+  {
+    "Index": 11,
+    "Image": "image11",
+    "Latitude": 53.55002479,
+    "Longitude": 9.993143078,
+    "City": "Altstadt",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 12,
+    "Image": "image12",
+    "Latitude": 52.23019281,
+    "Longitude": 21.01106656,
+    "City": "Warsaw",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 13,
+    "Image": "image13",
+    "Latitude": 48.20848235,
+    "Longitude": 16.37203257,
+    "City": "Vienna",
+    "Country": "Austria",
+    "Country Abbreviation": "AT"
+  },
+  {
+    "Index": 14,
+    "Image": "image14",
+    "Latitude": 41.38742007,
+    "Longitude": 2.156117217,
+    "City": "Barcelona",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 15,
+    "Image": "image15",
+    "Latitude": 59.32903103,
+    "Longitude": 18.06860467,
+    "City": "Stockholm",
+    "Country": "Sweden",
+    "Country Abbreviation": "SE"
+  },
+  {
+    "Index": 16,
+    "Image": "image16",
+    "Latitude": 49.97663869,
+    "Longitude": 36.25271027,
+    "City": "Kharkiv",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 17,
+    "Image": "image17",
+    "Latitude": 55.04235123,
+    "Longitude": 82.93646384,
+    "City": "Novosibirsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 18,
+    "Image": "image18",
+    "Latitude": 56.85107671,
+    "Longitude": 60.61395692,
+    "City": "Yekaterinburg",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 19,
+    "Image": "image19",
+    "Latitude": 56.33076517,
+    "Longitude": 44.00092895,
+    "City": "Nizhniy Novgorod",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 20,
+    "Image": "image20",
+    "Latitude": 44.8036436,
+    "Longitude": 20.46396075,
+    "City": "Belgrade",
+    "Country": "Serbia",
+    "Country Abbreviation": "RS"
+  },
+  {
+    "Index": 21,
+    "Image": "image21",
+    "Latitude": 48.13941192,
+    "Longitude": 11.57247324,
+    "City": "Munich",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 22,
+    "Image": "image22",
+    "Latitude": 45.46462268,
+    "Longitude": 9.189297726,
+    "City": "Milano",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 23,
+    "Image": "image23",
+    "Latitude": 50.08774336,
+    "Longitude": 14.42054775,
+    "City": "Prague",
+    "Country": "Czech Republic",
+    "Country Abbreviation": "CZ"
+  },
+  {
+    "Index": 24,
+    "Image": "image24",
+    "Latitude": 55.67581215,
+    "Longitude": 12.56475209,
+    "City": "Copenhagen",
+    "Country": "Denmark",
+    "Country Abbreviation": "DK"
+  },
+  {
+    "Index": 25,
+    "Image": "image25",
+    "Latitude": 42.69769477,
+    "Longitude": 23.32366936,
+    "City": "Sofia",
+    "Country": "Bulgaria",
+    "Country Abbreviation": "BG"
+  },
+  {
+    "Index": 26,
+    "Image": "image26",
+    "Latitude": 53.19888242,
+    "Longitude": 50.14402272,
+    "City": "Samara",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 27,
+    "Image": "image27",
+    "Latitude": 54.99241816,
+    "Longitude": 73.36846355,
+    "City": "Omsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 28,
+    "Image": "image28",
+    "Latitude": 55.78788188,
+    "Longitude": 49.12329239,
+    "City": "Kazan",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 29,
+    "Image": "image29",
+    "Latitude": 47.2307301,
+    "Longitude": 39.7254108,
+    "City": "Rostov-na-Donu",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 30,
+    "Image": "image30",
+    "Latitude": 55.15984834,
+    "Longitude": 61.43375676,
+    "City": "Chelyabinsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 31,
+    "Image": "image31",
+    "Latitude": 54.7431275,
+    "Longitude": 55.96325474,
+    "City": "Ufa",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 32,
+    "Image": "image32",
+    "Latitude": 48.02290039,
+    "Longitude": 37.8048482,
+    "City": "Donetsk",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 33,
+    "Image": "image33",
+    "Latitude": 53.33335044,
+    "Longitude": -6.249745714,
+    "City": "Dublin",
+    "Country": "Ireland",
+    "Country Abbreviation": "IE"
+  },
+  {
+    "Index": 34,
+    "Image": "image34",
+    "Latitude": 50.85057082,
+    "Longitude": 4.347169908,
+    "City": "Brussels",
+    "Country": "Belgium",
+    "Country Abbreviation": "BE"
+  },
+  {
+    "Index": 35,
+    "Image": "image35",
+    "Latitude": 46.4857967,
+    "Longitude": 30.7424524,
+    "City": "Odessa",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 36,
+    "Image": "image36",
+    "Latitude": 48.71959584,
+    "Longitude": 44.50216067,
+    "City": "Volgograd",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 37,
+    "Image": "image37",
+    "Latitude": 48.46906305,
+    "Longitude": 35.0467573,
+    "City": "Dnipropetrovsk",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 38,
+    "Image": "image38",
+    "Latitude": 52.48117012,
+    "Longitude": -1.899685568,
+    "City": "Birmingham",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 39,
+    "Image": "image39",
+    "Latitude": 58.01033757,
+    "Longitude": 56.25087521,
+    "City": "Perm",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 40,
+    "Image": "image40",
+    "Latitude": 50.9332338,
+    "Longitude": 6.948689542,
+    "City": "Koeln",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 41,
+    "Image": "image41",
+    "Latitude": 40.85227151,
+    "Longitude": 14.26815813,
+    "City": "Napoli",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 42,
+    "Image": "image42",
+    "Latitude": 56.0163054,
+    "Longitude": 92.86522525,
+    "City": "Krasnoyarsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 43,
+    "Image": "image43",
+    "Latitude": 45.07053265,
+    "Longitude": 7.686794796,
+    "City": "Turin",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 44,
+    "Image": "image44",
+    "Latitude": 53.41037848,
+    "Longitude": -2.978341722,
+    "City": "Liverpool",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 45,
+    "Image": "image45",
+    "Latitude": 51.54019507,
+    "Longitude": 46.00609213,
+    "City": "Saratov",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 46,
+    "Image": "image46",
+    "Latitude": 51.67192437,
+    "Longitude": 39.18404282,
+    "City": "Voronezh",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 47,
+    "Image": "image47",
+    "Latitude": 39.46945051,
+    "Longitude": -0.377692632,
+    "City": "Valencia",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 48,
+    "Image": "image48",
+    "Latitude": 43.29663998,
+    "Longitude": 5.38138641,
+    "City": "Marseille",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 49,
+    "Image": "image49",
+    "Latitude": 51.77026018,
+    "Longitude": 19.47708231,
+    "City": "Lodz",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 50,
+    "Image": "image50",
+    "Latitude": 50.06117458,
+    "Longitude": 19.9363914,
+    "City": "Krakow",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 51,
+    "Image": "image51",
+    "Latitude": 56.94501055,
+    "Longitude": 24.10699214,
+    "City": "Riga",
+    "Country": "Latvia",
+    "Country Abbreviation": "LV"
+  },
+  {
+    "Index": 52,
+    "Image": "image52",
+    "Latitude": 52.37436262,
+    "Longitude": 4.890261369,
+    "City": "Amsterdam",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 53,
+    "Image": "image53",
+    "Latitude": 47.85118034,
+    "Longitude": 35.11685159,
+    "City": "Zaporizhzhya",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 54,
+    "Image": "image54",
+    "Latitude": 49.83863746,
+    "Longitude": 24.02286716,
+    "City": "L'viv",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 55,
+    "Image": "image55",
+    "Latitude": 37.3830001,
+    "Longitude": -5.973271029,
+    "City": "Sevilla",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 56,
+    "Image": "image56",
+    "Latitude": 53.53315289,
+    "Longitude": 49.34590389,
+    "City": "Tol'yatti",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 57,
+    "Image": "image57",
+    "Latitude": 45.81514803,
+    "Longitude": 15.9785089,
+    "City": "Zagreb",
+    "Country": "Croatia",
+    "Country Abbreviation": "HR"
+  },
+  {
+    "Index": 58,
+    "Image": "image59",
+    "Latitude": 53.38314953,
+    "Longitude": -1.46562601,
+    "City": "Sheffield",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 59,
+    "Image": "image60",
+    "Latitude": 41.65594096,
+    "Longitude": -0.877499757,
+    "City": "Zaragoza",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 60,
+    "Image": "image61",
+    "Latitude": 37.97832411,
+    "Longitude": 23.72818933,
+    "City": "Athens",
+    "Country": "Greece",
+    "Country Abbreviation": "GR"
+  },
+  {
+    "Index": 61,
+    "Image": "image62",
+    "Latitude": 50.11643902,
+    "Longitude": 8.68421481,
+    "City": "Frankfurt am Main",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 62,
+    "Image": "image63",
+    "Latitude": 45.04705114,
+    "Longitude": 38.97351631,
+    "City": "Krasnodar",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 63,
+    "Image": "image64",
+    "Latitude": 38.13301408,
+    "Longitude": 13.33570165,
+    "City": "Palermo",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 64,
+    "Image": "image65",
+    "Latitude": 54.32722791,
+    "Longitude": 48.38569045,
+    "City": "Ulyanovsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 65,
+    "Image": "image67",
+    "Latitude": 51.10086896,
+    "Longitude": 17.03158506,
+    "City": "Wroclaw",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 66,
+    "Image": "image68",
+    "Latitude": 56.85012718,
+    "Longitude": 53.20371454,
+    "City": "Izhevsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 67,
+    "Image": "image69",
+    "Latitude": 47.90684887,
+    "Longitude": 33.39468532,
+    "City": "Kryvyi Rih",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 68,
+    "Image": "image70",
+    "Latitude": 51.45531492,
+    "Longitude": -2.596522206,
+    "City": "Bristol",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 69,
+    "Image": "image71",
+    "Latitude": 57.62955425,
+    "Longitude": 39.87935358,
+    "City": "Yaroslavl",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 70,
+    "Image": "image72",
+    "Latitude": 53.36090916,
+    "Longitude": 83.76330133,
+    "City": "Barnaul",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 71,
+    "Image": "image73",
+    "Latitude": 51.92252242,
+    "Longitude": 4.478675946,
+    "City": "Rotterdam",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 72,
+    "Image": "image74",
+    "Latitude": 51.4556718,
+    "Longitude": 7.011544629,
+    "City": "Essen",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 73,
+    "Image": "image75",
+    "Latitude": 55.86413226,
+    "Longitude": -4.25902038,
+    "City": "Glasgow",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 74,
+    "Image": "image76",
+    "Latitude": 48.7828942,
+    "Longitude": 9.177819544,
+    "City": "Stuttgart",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 75,
+    "Image": "image77",
+    "Latitude": 51.51409389,
+    "Longitude": 7.473121793,
+    "City": "Dortmund",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 76,
+    "Image": "image78",
+    "Latitude": 43.10665391,
+    "Longitude": 131.8747903,
+    "City": "Vladivostok",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 77,
+    "Image": "image79",
+    "Latitude": 52.29657079,
+    "Longitude": 104.2936735,
+    "City": "Irkutsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 78,
+    "Image": "image80",
+    "Latitude": 44.40538741,
+    "Longitude": 8.944776027,
+    "City": "San Teodoro",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 79,
+    "Image": "image81",
+    "Latitude": 59.91278984,
+    "Longitude": 10.74620471,
+    "City": "Oslo",
+    "Country": "Norway",
+    "Country Abbreviation": "NO"
+  },
+  {
+    "Index": 80,
+    "Image": "image82",
+    "Latitude": 48.48295733,
+    "Longitude": 135.0843887,
+    "City": "Khabarovsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 81,
+    "Image": "image83",
+    "Latitude": 48.43766523,
+    "Longitude": 135.1318282,
+    "City": "Khabarovsk Vtoroy",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 82,
+    "Image": "image84",
+    "Latitude": 51.22153901,
+    "Longitude": 6.777172963,
+    "City": "Dusseldorf",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 83,
+    "Image": "image85",
+    "Latitude": 57.70674877,
+    "Longitude": 11.96660927,
+    "City": "Goeteborg",
+    "Country": "Sweden",
+    "Country Abbreviation": "SE"
+  },
+  {
+    "Index": 84,
+    "Image": "image86",
+    "Latitude": 52.40757422,
+    "Longitude": 16.92912265,
+    "City": "Poznan",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 85,
+    "Image": "image87",
+    "Latitude": 36.72015399,
+    "Longitude": -4.420110836,
+    "City": "Malaga",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 86,
+    "Image": "image88",
+    "Latitude": 60.16960534,
+    "Longitude": 24.93570806,
+    "City": "Helsinki",
+    "Country": "Finland",
+    "Country Abbreviation": "FI"
+  },
+  {
+    "Index": 87,
+    "Image": "image89",
+    "Latitude": 51.7731847,
+    "Longitude": 55.09870718,
+    "City": "Orenburg",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 88,
+    "Image": "image91",
+    "Latitude": 53.07506187,
+    "Longitude": 8.805832935,
+    "City": "Bremen",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 89,
+    "Image": "image92",
+    "Latitude": 54.68931201,
+    "Longitude": 25.27910314,
+    "City": "Vilnius",
+    "Country": "Lithuania",
+    "Country Abbreviation": "LT"
+  },
+  {
+    "Index": 90,
+    "Image": "image93",
+    "Latitude": 53.75580938,
+    "Longitude": 87.11019127,
+    "City": "Novokuznetsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 91,
+    "Image": "image94",
+    "Latitude": 54.62705719,
+    "Longitude": 39.69104533,
+    "City": "Ryazan'",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 92,
+    "Image": "image95",
+    "Latitude": 57.15079745,
+    "Longitude": 65.52959661,
+    "City": "Tyumen",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 93,
+    "Image": "image96",
+    "Latitude": 38.71706188,
+    "Longitude": -9.133822724,
+    "City": "Lisbon",
+    "Country": "Portugal",
+    "Country Abbreviation": "PT"
+  },
+  {
+    "Index": 94,
+    "Image": "image97",
+    "Latitude": 52.60268046,
+    "Longitude": 39.57164971,
+    "City": "Lipetsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 95,
+    "Image": "image98",
+    "Latitude": 49.45432865,
+    "Longitude": 11.07870336,
+    "City": "Nuernberg",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 96,
+    "Image": "image99",
+    "Latitude": 52.37077352,
+    "Longitude": 9.733683386,
+    "City": "Hannover",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 97,
+    "Image": "image100",
+    "Latitude": 53.20108878,
+    "Longitude": 45.00419753,
+    "City": "Penza",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 98,
+    "Image": "image101",
+    "Latitude": 55.72623323,
+    "Longitude": 52.40983116,
+    "City": "Naberezhnyye Chelny",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 99,
+    "Image": "image102",
+    "Latitude": 52.63858285,
+    "Longitude": -1.131296644,
+    "City": "Leicester",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 100,
+    "Image": "image103",
+    "Latitude": 51.33969599,
+    "Longitude": 12.37146965,
+    "City": "Leipzig",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 101,
+    "Image": "image104",
+    "Latitude": 59.99560831,
+    "Longitude": 30.38964318,
+    "City": "Kalininskiy",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 102,
+    "Image": "image105",
+    "Latitude": 51.43116305,
+    "Longitude": 6.766234679,
+    "City": "Duisburg",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 103,
+    "Image": "image106",
+    "Latitude": 46.35031322,
+    "Longitude": 48.04095055,
+    "City": "Astrakhan'",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 104,
+    "Image": "image107",
+    "Latitude": 42.97676695,
+    "Longitude": 47.50225126,
+    "City": "Makhachkala",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 105,
+    "Image": "image108",
+    "Latitude": 51.05199083,
+    "Longitude": 13.73702742,
+    "City": "Dresden",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 106,
+    "Image": "image109",
+    "Latitude": 56.49707781,
+    "Longitude": 84.97766121,
+    "City": "Tomsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 107,
+    "Image": "image110",
+    "Latitude": 46.97826993,
+    "Longitude": 31.98845767,
+    "City": "Mykolayiv",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 108,
+    "Image": "image112",
+    "Latitude": 55.3327773,
+    "Longitude": 86.0843952,
+    "City": "Kemerovo",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 109,
+    "Image": "image113",
+    "Latitude": 41.99884449,
+    "Longitude": 21.43240747,
+    "City": "Skopje",
+    "Country": "Republic of North Macedonia",
+    "Country Abbreviation": "MK"
+  },
+  {
+    "Index": 110,
+    "Image": "image114",
+    "Latitude": 52.07602665,
+    "Longitude": 4.296841468,
+    "City": "The Hague",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 111,
+    "Image": "image115",
+    "Latitude": 45.74839802,
+    "Longitude": 4.846385032,
+    "City": "Lyon",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 112,
+    "Image": "image116",
+    "Latitude": 54.19659073,
+    "Longitude": 37.61692428,
+    "City": "Tula",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 113,
+    "Image": "image117",
+    "Latitude": 55.95209798,
+    "Longitude": -3.196488078,
+    "City": "Edinburgh",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 114,
+    "Image": "image119",
+    "Latitude": 54.35163168,
+    "Longitude": 18.64865535,
+    "City": "Gdansk",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 115,
+    "Image": "image120",
+    "Latitude": 51.2198443,
+    "Longitude": 4.399734154,
+    "City": "Antwerpen",
+    "Country": "Belgium",
+    "Country Abbreviation": "BE"
+  },
+  {
+    "Index": 116,
+    "Image": "image121",
+    "Latitude": 58.59601151,
+    "Longitude": 49.65805311,
+    "City": "Kirov",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 117,
+    "Image": "image122",
+    "Latitude": 53.79651464,
+    "Longitude": -1.54798497,
+    "City": "Leeds",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 118,
+    "Image": "image124",
+    "Latitude": 51.4801414,
+    "Longitude": -3.17966422,
+    "City": "Cardiff",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 119,
+    "Image": "image125",
+    "Latitude": 56.1322496,
+    "Longitude": 47.25074935,
+    "City": "Cheboksary",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 120,
+    "Image": "image126",
+    "Latitude": 37.98696027,
+    "Longitude": -1.130100492,
+    "City": "Murcia",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 121,
+    "Image": "image127",
+    "Latitude": 54.70486256,
+    "Longitude": 20.50716555,
+    "City": "Kaliningrad",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 122,
+    "Image": "image128",
+    "Latitude": 43.60435791,
+    "Longitude": 1.443830175,
+    "City": "Toulouse",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 123,
+    "Image": "image130",
+    "Latitude": 53.252115,
+    "Longitude": 34.37157371,
+    "City": "Bryansk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 124,
+    "Image": "image131",
+    "Latitude": 48.14797062,
+    "Longitude": 17.10700574,
+    "City": "Bratislava",
+    "Country": "Slovakia",
+    "Country Abbreviation": "SK"
+  },
+  {
+    "Index": 125,
+    "Image": "image132",
+    "Latitude": 56.99654294,
+    "Longitude": 40.9695245,
+    "City": "Ivanovo",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 126,
+    "Image": "image133",
+    "Latitude": 53.41329752,
+    "Longitude": 59.0535854,
+    "City": "Magnitogorsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 127,
+    "Image": "image134",
+    "Latitude": 53.58227784,
+    "Longitude": 10.07988794,
+    "City": "Marienthal",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 128,
+    "Image": "image135",
+    "Latitude": 51.73900435,
+    "Longitude": 36.18711891,
+    "City": "Kursk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 129,
+    "Image": "image136",
+    "Latitude": 53.42979964,
+    "Longitude": 14.55335298,
+    "City": "Szczecin",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 130,
+    "Image": "image137",
+    "Latitude": 39.5696437,
+    "Longitude": 2.650302245,
+    "City": "Palma",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 131,
+    "Image": "image138",
+    "Latitude": 56.85870917,
+    "Longitude": 35.90013886,
+    "City": "Tver",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 132,
+    "Image": "image139",
+    "Latitude": 53.48090827,
+    "Longitude": -2.237423628,
+    "City": "Manchester",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 133,
+    "Image": "image140",
+    "Latitude": 59.43706194,
+    "Longitude": 24.75580496,
+    "City": "Tallinn",
+    "Country": "Estonia",
+    "Country Abbreviation": "EE"
+  },
+  {
+    "Index": 134,
+    "Image": "image141",
+    "Latitude": 51.48418311,
+    "Longitude": 7.217234262,
+    "City": "Bochum",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 135,
+    "Image": "image142",
+    "Latitude": 44.42645368,
+    "Longitude": 26.1679016,
+    "City": "Dobroesti",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 136,
+    "Image": "image143",
+    "Latitude": 28.1000578,
+    "Longitude": -15.41306074,
+    "City": "Las Palmas de Gran Canaria",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 137,
+    "Image": "image144",
+    "Latitude": 57.91956297,
+    "Longitude": 59.96682724,
+    "City": "Nizhniy Tagil",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 138,
+    "Image": "image145",
+    "Latitude": 51.50144809,
+    "Longitude": 7.174544497,
+    "City": "Bochum-Hordel",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 139,
+    "Image": "image146",
+    "Latitude": 48.0438707,
+    "Longitude": 37.88555629,
+    "City": "Makiyivka",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 140,
+    "Image": "image147",
+    "Latitude": 41.3272775,
+    "Longitude": 19.81636876,
+    "City": "Tirana",
+    "Country": "Albania",
+    "Country Abbreviation": "AL"
+  },
+  {
+    "Index": 141,
+    "Image": "image148",
+    "Latitude": 54.90350209,
+    "Longitude": 23.91122222,
+    "City": "Kaunas",
+    "Country": "Lithuania",
+    "Country Abbreviation": "LT"
+  },
+  {
+    "Index": 142,
+    "Image": "image149",
+    "Latitude": 53.00404659,
+    "Longitude": -2.185471862,
+    "City": "Stoke-on-Trent",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 143,
+    "Image": "image150",
+    "Latitude": 49.23181889,
+    "Longitude": 28.4688628,
+    "City": "Vinnytsya",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 144,
+    "Image": "image151",
+    "Latitude": 49.19543845,
+    "Longitude": 16.60813671,
+    "City": "Brno",
+    "Country": "Czech Republic",
+    "Country Abbreviation": "CZ"
+  },
+  {
+    "Index": 145,
+    "Image": "image153",
+    "Latitude": 44.43603593,
+    "Longitude": 26.01595072,
+    "City": "Rosu",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 146,
+    "Image": "image154",
+    "Latitude": 53.12363372,
+    "Longitude": 18.00768829,
+    "City": "Bydgoszcz",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 147,
+    "Image": "image155",
+    "Latitude": 44.49351339,
+    "Longitude": 11.33952828,
+    "City": "Bologna",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 148,
+    "Image": "image156",
+    "Latitude": 45.04275618,
+    "Longitude": 41.97307349,
+    "City": "Stavropol'",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 149,
+    "Image": "image157",
+    "Latitude": 51.25601502,
+    "Longitude": 7.146510164,
+    "City": "Wuppertal",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 150,
+    "Image": "image158",
+    "Latitude": 51.82621511,
+    "Longitude": 107.6083516,
+    "City": "Ulan-Ude",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 151,
+    "Image": "image159",
+    "Latitude": 51.24970357,
+    "Longitude": 22.56775666,
+    "City": "Lublin",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 152,
+    "Image": "image160",
+    "Latitude": 52.40644409,
+    "Longitude": -1.512586168,
+    "City": "Coventry",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 153,
+    "Image": "image161",
+    "Latitude": 64.53977618,
+    "Longitude": 40.54357204,
+    "City": "Arkhangel'sk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 154,
+    "Image": "image162",
+    "Latitude": 43.26277551,
+    "Longitude": -2.925043915,
+    "City": "Bilbao",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 155,
+    "Image": "image163",
+    "Latitude": 40.64321487,
+    "Longitude": 22.93189259,
+    "City": "Thessaloniki",
+    "Country": "Greece",
+    "Country Abbreviation": "GR"
+  },
+  {
+    "Index": 156,
+    "Image": "image164",
+    "Latitude": 43.77950656,
+    "Longitude": 11.24475433,
+    "City": "Florence",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 157,
+    "Image": "image165",
+    "Latitude": 44.45434198,
+    "Longitude": 26.1342628,
+    "City": "Fundeni",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 158,
+    "Image": "image166",
+    "Latitude": 50.61004675,
+    "Longitude": 36.578806,
+    "City": "Belgorod",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 159,
+    "Image": "image167",
+    "Latitude": 55.45312166,
+    "Longitude": 65.33101919,
+    "City": "Kurgan",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 160,
+    "Image": "image169",
+    "Latitude": 47.36743621,
+    "Longitude": 8.548172203,
+    "City": "Zurich",
+    "Country": "Switzerland",
+    "Country Abbreviation": "CH"
+  },
+  {
+    "Index": 161,
+    "Image": "image170",
+    "Latitude": 42.14997011,
+    "Longitude": 24.74996355,
+    "City": "Plovdiv",
+    "Country": "Bulgaria",
+    "Country Abbreviation": "BG"
+  },
+  {
+    "Index": 162,
+    "Image": "image171",
+    "Latitude": 54.52952621,
+    "Longitude": 36.27317235,
+    "City": "Kaluga",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 163,
+    "Image": "image172",
+    "Latitude": 43.70316138,
+    "Longitude": 7.266314568,
+    "City": "Nice",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 164,
+    "Image": "image173",
+    "Latitude": 59.97066015,
+    "Longitude": 30.46598636,
+    "City": "Krasnogvargeisky",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 165,
+    "Image": "image175",
+    "Latitude": 54.90439993,
+    "Longitude": -1.382388351,
+    "City": "Sunderland",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 166,
+    "Image": "image176",
+    "Latitude": 38.34516875,
+    "Longitude": -0.481529897,
+    "City": "Alicante",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 167,
+    "Image": "image177",
+    "Latitude": 52.03428686,
+    "Longitude": 8.533606029,
+    "City": "Bielefeld",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 168,
+    "Image": "image178",
+    "Latitude": 50.73296059,
+    "Longitude": 7.095233086,
+    "City": "Bonn",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 169,
+    "Image": "image179",
+    "Latitude": 51.55330897,
+    "Longitude": -0.302745353,
+    "City": "Wembley",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 170,
+    "Image": "image180",
+    "Latitude": 37.89145527,
+    "Longitude": -4.772759128,
+    "City": "Cordoba",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 171,
+    "Image": "image181",
+    "Latitude": 43.59883241,
+    "Longitude": 39.72502916,
+    "City": "Sochi",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 172,
+    "Image": "image182",
+    "Latitude": 53.39379522,
+    "Longitude": -3.014616536,
+    "City": "Birkenhead",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 173,
+    "Image": "image183",
+    "Latitude": 52.96453764,
+    "Longitude": 36.07840904,
+    "City": "Orel",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 174,
+    "Image": "image184",
+    "Latitude": 48.78622302,
+    "Longitude": 44.78087416,
+    "City": "Volzhskiy",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 175,
+    "Image": "image185",
+    "Latitude": 52.95367369,
+    "Longitude": -1.150406881,
+    "City": "Nottingham",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 176,
+    "Image": "image186",
+    "Latitude": 54.78240101,
+    "Longitude": 32.04158136,
+    "City": "Smolensk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 177,
+    "Image": "image187",
+    "Latitude": 68.97903585,
+    "Longitude": 33.09304997,
+    "City": "Murmansk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 178,
+    "Image": "image188",
+    "Latitude": 51.53623487,
+    "Longitude": -0.103012953,
+    "City": "Islington",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 179,
+    "Image": "image189",
+    "Latitude": 51.4562473,
+    "Longitude": -0.971393259,
+    "City": "Reading",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 180,
+    "Image": "image190",
+    "Latitude": 47.16649691,
+    "Longitude": 27.60009982,
+    "City": "Iasi",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 181,
+    "Image": "image191",
+    "Latitude": 41.65509565,
+    "Longitude": -4.724051353,
+    "City": "Valladolid",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 182,
+    "Image": "image192",
+    "Latitude": 43.03577746,
+    "Longitude": 44.66773257,
+    "City": "Vladikavkaz",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 183,
+    "Image": "image194",
+    "Latitude": 50.25858359,
+    "Longitude": 19.02640631,
+    "City": "Katowice",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 184,
+    "Image": "image195",
+    "Latitude": 46.76735162,
+    "Longitude": 23.59942403,
+    "City": "Cluj-Napoca",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 185,
+    "Image": "image196",
+    "Latitude": 59.13355165,
+    "Longitude": 37.89979455,
+    "City": "Cherepovets",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 186,
+    "Image": "image197",
+    "Latitude": 45.75254859,
+    "Longitude": 21.22624128,
+    "City": "Timisoara",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 187,
+    "Image": "image198",
+    "Latitude": 59.22420974,
+    "Longitude": 39.88412496,
+    "City": "Vologda",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 188,
+    "Image": "image199",
+    "Latitude": 53.74448794,
+    "Longitude": -0.335448243,
+    "City": "Hull",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 189,
+    "Image": "image200",
+    "Latitude": 53.76232892,
+    "Longitude": -2.705908227,
+    "City": "Preston",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 190,
+    "Image": "image201",
+    "Latitude": 49.83478584,
+    "Longitude": 18.28179825,
+    "City": "Ostrava",
+    "Country": "Czech Republic",
+    "Country Abbreviation": "CZ"
+  },
+  {
+    "Index": 191,
+    "Image": "image202",
+    "Latitude": 43.21578294,
+    "Longitude": 27.91615051,
+    "City": "Varna",
+    "Country": "Bulgaria",
+    "Country Abbreviation": "BG"
+  },
+  {
+    "Index": 192,
+    "Image": "image203",
+    "Latitude": 56.13671982,
+    "Longitude": 40.39534944,
+    "City": "Vladimir",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 193,
+    "Image": "image204",
+    "Latitude": 52.03169291,
+    "Longitude": 113.5009737,
+    "City": "Chita",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 194,
+    "Image": "image205",
+    "Latitude": 49.49082469,
+    "Longitude": 8.470985798,
+    "City": "Mannheim",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 195,
+    "Image": "image206",
+    "Latitude": 51.50240041,
+    "Longitude": 31.28492702,
+    "City": "Chernihiv",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 196,
+    "Image": "image207",
+    "Latitude": 51.58778309,
+    "Longitude": -2.998208997,
+    "City": "Newport",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 197,
+    "Image": "image208",
+    "Latitude": 44.31679871,
+    "Longitude": 23.80016391,
+    "City": "Craiova",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 198,
+    "Image": "image209",
+    "Latitude": 44.1810306,
+    "Longitude": 28.63277002,
+    "City": "Constanta",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 199,
+    "Image": "image210",
+    "Latitude": 54.18371973,
+    "Longitude": 45.17653699,
+    "City": "Saransk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 200,
+    "Image": "image211",
+    "Latitude": 55.60583062,
+    "Longitude": 13.00114347,
+    "City": "Malmoe",
+    "Country": "Sweden",
+    "Country Abbreviation": "SE"
+  },
+  {
+    "Index": 201,
+    "Image": "image212",
+    "Latitude": 52.07841373,
+    "Longitude": 23.63805192,
+    "City": "Terespol",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 202,
+    "Image": "image213",
+    "Latitude": 61.25003741,
+    "Longitude": 73.41714148,
+    "City": "Surgut",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 203,
+    "Image": "image214",
+    "Latitude": 51.62080711,
+    "Longitude": -3.943203107,
+    "City": "Swansea",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 204,
+    "Image": "image215",
+    "Latitude": 53.79397989,
+    "Longitude": -1.752271819,
+    "City": "Bradford",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 205,
+    "Image": "image216",
+    "Latitude": 42.23309253,
+    "Longitude": -8.724417257,
+    "City": "Vigo",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 206,
+    "Image": "image217",
+    "Latitude": 51.53785243,
+    "Longitude": 0.713254542,
+    "City": "Southend-on-Sea",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 207,
+    "Image": "image218",
+    "Latitude": 50.9217466,
+    "Longitude": 34.79904254,
+    "City": "Sumy",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 208,
+    "Image": "image219",
+    "Latitude": 45.43684193,
+    "Longitude": 28.05019121,
+    "City": "Galati",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 209,
+    "Image": "image220",
+    "Latitude": 53.13204215,
+    "Longitude": 23.16383825,
+    "City": "Bialystok",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 210,
+    "Image": "image221",
+    "Latitude": 52.73073136,
+    "Longitude": 41.44330812,
+    "City": "Tambov",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 211,
+    "Image": "image222",
+    "Latitude": 37.49488053,
+    "Longitude": 15.07127948,
+    "City": "Catania",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 212,
+    "Image": "image223",
+    "Latitude": 52.0907351,
+    "Longitude": 5.123015178,
+    "City": "Utrecht",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 213,
+    "Image": "image225",
+    "Latitude": 49.58897709,
+    "Longitude": 34.55313936,
+    "City": "Poltava",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 214,
+    "Image": "image226",
+    "Latitude": 44.37538955,
+    "Longitude": 26.12100185,
+    "City": "Popesti-Leordeni",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 215,
+    "Image": "image227",
+    "Latitude": 53.57046434,
+    "Longitude": 10.08670413,
+    "City": "Marienthal",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 216,
+    "Image": "image228",
+    "Latitude": 49.01183348,
+    "Longitude": 8.40057539,
+    "City": "Karlsruhe",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 217,
+    "Image": "image229",
+    "Latitude": 53.58765338,
+    "Longitude": 9.980241021,
+    "City": "Hamburg-Nord",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 218,
+    "Image": "image230",
+    "Latitude": 56.63925681,
+    "Longitude": 47.8911633,
+    "City": "Yoshkar-Ola",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 219,
+    "Image": "image231",
+    "Latitude": 47.23680365,
+    "Longitude": 38.90595242,
+    "City": "Taganrog",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 220,
+    "Image": "image233",
+    "Latitude": 57.76639188,
+    "Longitude": 40.92493969,
+    "City": "Kostroma",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 221,
+    "Image": "image234",
+    "Latitude": 43.53626857,
+    "Longitude": -5.660890774,
+    "City": "Gijon",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 222,
+    "Image": "image235",
+    "Latitude": 41.12073016,
+    "Longitude": 16.86979861,
+    "City": "Bari",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 223,
+    "Image": "image236",
+    "Latitude": 47.21726076,
+    "Longitude": -1.553337421,
+    "City": "Nantes",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 224,
+    "Image": "image237",
+    "Latitude": 49.44408973,
+    "Longitude": 32.05802765,
+    "City": "Cherkasy",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 225,
+    "Image": "image238",
+    "Latitude": 45.64936538,
+    "Longitude": 25.60616381,
+    "City": "Brasov",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 226,
+    "Image": "image239",
+    "Latitude": 50.55011439,
+    "Longitude": 137.0101296,
+    "City": "Komsomolsk-on-Amur",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 227,
+    "Image": "image240",
+    "Latitude": 48.58372935,
+    "Longitude": 7.745570689,
+    "City": "Strasbourg",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 228,
+    "Image": "image241",
+    "Latitude": 54.59680496,
+    "Longitude": -5.926457719,
+    "City": "Belfast",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 229,
+    "Image": "image242",
+    "Latitude": 43.49840957,
+    "Longitude": 43.62005912,
+    "City": "Nal'chik",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 230,
+    "Image": "image244",
+    "Latitude": 46.05112621,
+    "Longitude": 14.50597066,
+    "City": "Ljubljana",
+    "Country": "Slovenia",
+    "Country Abbreviation": "SI"
+  },
+  {
+    "Index": 231,
+    "Image": "image245",
+    "Latitude": 44.38735702,
+    "Longitude": 26.06947954,
+    "City": "Bucuresti",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 232,
+    "Image": "image246",
+    "Latitude": 49.41921194,
+    "Longitude": 26.98204362,
+    "City": "Khmel'nyts'kyy",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 233,
+    "Image": "image247",
+    "Latitude": 52.9228662,
+    "Longitude": -1.476813201,
+    "City": "Derby",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 234,
+    "Image": "image249",
+    "Latitude": 51.48302253,
+    "Longitude": 7.083032308,
+    "City": "Gelsenkirchen",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 235,
+    "Image": "image250",
+    "Latitude": 53.62480276,
+    "Longitude": 55.94944926,
+    "City": "Sterlitamak",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 236,
+    "Image": "image251",
+    "Latitude": 48.29379771,
+    "Longitude": 25.93898264,
+    "City": "Chernivtsi",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 237,
+    "Image": "image252",
+    "Latitude": 41.38647803,
+    "Longitude": 2.161881101,
+    "City": "Eixample",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 238,
+    "Image": "image253",
+    "Latitude": 50.7718956,
+    "Longitude": 6.025779913,
+    "City": "Vaals",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 239,
+    "Image": "image254",
+    "Latitude": 61.78457998,
+    "Longitude": 34.34674499,
+    "City": "Petrozavodsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 240,
+    "Image": "image255",
+    "Latitude": 50.26697068,
+    "Longitude": 28.67571611,
+    "City": "Zhytomyr",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 241,
+    "Image": "image257",
+    "Latitude": 50.371416,
+    "Longitude": -4.14298802,
+    "City": "Plymouth",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 242,
+    "Image": "image259",
+    "Latitude": 51.87972838,
+    "Longitude": -0.417360342,
+    "City": "Luton",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 243,
+    "Image": "image260",
+    "Latitude": 41.35977169,
+    "Longitude": 2.100304533,
+    "City": "L'Hospitalet de Llobregat",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 244,
+    "Image": "image261",
+    "Latitude": 60.20493881,
+    "Longitude": 24.65167522,
+    "City": "Espoo",
+    "Country": "Finland",
+    "Country Abbreviation": "FI"
+  },
+  {
+    "Index": 245,
+    "Image": "image262",
+    "Latitude": 40.38749914,
+    "Longitude": -3.745861178,
+    "City": "Latina",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 246,
+    "Image": "image263",
+    "Latitude": 56.13404945,
+    "Longitude": 101.615991,
+    "City": "Bratsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 247,
+    "Image": "image264",
+    "Latitude": 50.62275539,
+    "Longitude": 26.22917345,
+    "City": "Rivne",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 248,
+    "Image": "image265",
+    "Latitude": 40.39092421,
+    "Longitude": -3.724163331,
+    "City": "Carabanchel",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 249,
+    "Image": "image266",
+    "Latitude": 52.58591558,
+    "Longitude": -2.12292885,
+    "City": "Wolverhampton",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 250,
+    "Image": "image267",
+    "Latitude": 53.5739791,
+    "Longitude": 9.956536581,
+    "City": "St. Pauli",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 251,
+    "Image": "image268",
+    "Latitude": 53.55009965,
+    "Longitude": 9.932898242,
+    "City": "Altona",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 252,
+    "Image": "image269",
+    "Latitude": 43.32458902,
+    "Longitude": 21.90246806,
+    "City": "Nis",
+    "Country": "Serbia",
+    "Country Abbreviation": "RS"
+  },
+  {
+    "Index": 253,
+    "Image": "image270",
+    "Latitude": 41.14927385,
+    "Longitude": -8.611196566,
+    "City": "Porto",
+    "Country": "Portugal",
+    "Country Abbreviation": "PT"
+  },
+  {
+    "Index": 254,
+    "Image": "image271",
+    "Latitude": 43.6108634,
+    "Longitude": 3.876319421,
+    "City": "Montpellier",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 255,
+    "Image": "image272",
+    "Latitude": 50.79955139,
+    "Longitude": 19.12679702,
+    "City": "Czestochowa",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 256,
+    "Image": "image273",
+    "Latitude": 51.49796115,
+    "Longitude": -0.135400466,
+    "City": "London",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 257,
+    "Image": "image275",
+    "Latitude": 51.20434163,
+    "Longitude": 58.56211189,
+    "City": "Orsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 258,
+    "Image": "image276",
+    "Latitude": 50.90392407,
+    "Longitude": -1.404111162,
+    "City": "Southampton",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 259,
+    "Image": "image277",
+    "Latitude": 43.37127124,
+    "Longitude": -8.396379529,
+    "City": "A Coruna",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 260,
+    "Image": "image278",
+    "Latitude": 54.51914974,
+    "Longitude": 18.53095688,
+    "City": "Gdynia",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 261,
+    "Image": "image279",
+    "Latitude": 60.93392257,
+    "Longitude": 76.55301712,
+    "City": "Nizhnevartovsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 262,
+    "Image": "image280",
+    "Latitude": 52.27512993,
+    "Longitude": 10.52932154,
+    "City": "Braunschweig",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 263,
+    "Image": "image281",
+    "Latitude": 40.3932262,
+    "Longitude": -3.662337019,
+    "City": "Puente de Vallecas",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 264,
+    "Image": "image282",
+    "Latitude": 52.53666732,
+    "Longitude": 103.8857001,
+    "City": "Angarsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 265,
+    "Image": "image283",
+    "Latitude": 55.64756709,
+    "Longitude": 37.71315434,
+    "City": "Mar'ino",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 266,
+    "Image": "image284",
+    "Latitude": 44.72399687,
+    "Longitude": 37.76733286,
+    "City": "Novorossiysk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 267,
+    "Image": "image285",
+    "Latitude": 55.89824528,
+    "Longitude": 37.42491242,
+    "City": "Khimki",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 268,
+    "Image": "image286",
+    "Latitude": 53.81686378,
+    "Longitude": -3.049488464,
+    "City": "Blackpool",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 269,
+    "Image": "image287",
+    "Latitude": 51.34976632,
+    "Longitude": 6.659072732,
+    "City": "Krefeld",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 270,
+    "Image": "image289",
+    "Latitude": 56.1566156,
+    "Longitude": 10.21039113,
+    "City": "Arhus",
+    "Country": "Denmark",
+    "Country Abbreviation": "DK"
+  },
+  {
+    "Index": 271,
+    "Image": "image290",
+    "Latitude": 42.44143357,
+    "Longitude": 19.26382734,
+    "City": "Podgorica",
+    "Country": "Montenegro",
+    "Country Abbreviation": "ME"
+  },
+  {
+    "Index": 272,
+    "Image": "image291",
+    "Latitude": 48.92329507,
+    "Longitude": 24.71212493,
+    "City": "Ivano-Frankivs'k",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 273,
+    "Image": "image292",
+    "Latitude": 48.71402586,
+    "Longitude": 21.2581394,
+    "City": "Kosice",
+    "Country": "Slovakia",
+    "Country Abbreviation": "SK"
+  },
+  {
+    "Index": 274,
+    "Image": "image293",
+    "Latitude": 41.4182042,
+    "Longitude": 2.199427517,
+    "City": "Sant Marti",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 275,
+    "Image": "image294",
+    "Latitude": 42.85003539,
+    "Longitude": -2.67292843,
+    "City": "Gasteiz / Vitoria",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 276,
+    "Image": "image295",
+    "Latitude": 62.03397361,
+    "Longitude": 129.7330631,
+    "City": "Yakutsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 277,
+    "Image": "image296",
+    "Latitude": 37.18899361,
+    "Longitude": -3.606721528,
+    "City": "Granada",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 278,
+    "Image": "image297",
+    "Latitude": 55.63711324,
+    "Longitude": 51.8250093,
+    "City": "Nizhnekamsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 279,
+    "Image": "image298",
+    "Latitude": 48.51697799,
+    "Longitude": 34.60484319,
+    "City": "Dniprodzerzhyns'k",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 280,
+    "Image": "image299",
+    "Latitude": 53.55031103,
+    "Longitude": 10.0163888,
+    "City": "Hamburg-Mitte",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 281,
+    "Image": "image300",
+    "Latitude": 56.24245184,
+    "Longitude": 43.45409343,
+    "City": "Dzerzhinsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 282,
+    "Image": "image302",
+    "Latitude": 44.84049537,
+    "Longitude": -0.580764165,
+    "City": "Bordeaux",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 283,
+    "Image": "image303",
+    "Latitude": 51.05177285,
+    "Longitude": 3.715200118,
+    "City": "Gent",
+    "Country": "Belgium",
+    "Country Abbreviation": "BE"
+  },
+  {
+    "Index": 284,
+    "Image": "image304",
+    "Latitude": 61.6637769,
+    "Longitude": 50.81444043,
+    "City": "Syktyvkar",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 285,
+    "Image": "image305",
+    "Latitude": 38.26269184,
+    "Longitude": -0.700944611,
+    "City": "Elche",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 286,
+    "Image": "image306",
+    "Latitude": 52.042202,
+    "Longitude": -0.756376636,
+    "City": "Milton Keynes",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 287,
+    "Image": "image308",
+    "Latitude": 44.94990391,
+    "Longitude": 26.01668692,
+    "City": "Ploiesti",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 288,
+    "Image": "image309",
+    "Latitude": 50.63297001,
+    "Longitude": 3.059089924,
+    "City": "Lille",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 289,
+    "Image": "image310",
+    "Latitude": 40.44244826,
+    "Longitude": -3.649583877,
+    "City": "Ciudad Lineal",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 290,
+    "Image": "image311",
+    "Latitude": 51.44177533,
+    "Longitude": 0.149076978,
+    "City": "Bexley",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 291,
+    "Image": "image312",
+    "Latitude": 48.50903203,
+    "Longitude": 32.26581041,
+    "City": "Kirovohrad",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 292,
+    "Image": "image313",
+    "Latitude": 50.2878705,
+    "Longitude": 19.10113195,
+    "City": "Sosnowiec",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 293,
+    "Image": "image314",
+    "Latitude": 51.29774706,
+    "Longitude": 37.84271953,
+    "City": "Staryy Oskol",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 294,
+    "Image": "image316",
+    "Latitude": 51.40266109,
+    "Longitude": 21.14672924,
+    "City": "Radom",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 295,
+    "Image": "image317",
+    "Latitude": 43.31210102,
+    "Longitude": 45.68853466,
+    "City": "Groznyy",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 296,
+    "Image": "image318",
+    "Latitude": 44.4928137,
+    "Longitude": 26.05157547,
+    "City": "Rosu",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 297,
+    "Image": "image319",
+    "Latitude": 43.36043401,
+    "Longitude": -5.845220139,
+    "City": "Oviedo",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 298,
+    "Image": "image320",
+    "Latitude": 28.46806735,
+    "Longitude": -16.25477817,
+    "City": "Santa Cruz de Tenerife",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 299,
+    "Image": "image321",
+    "Latitude": 47.06645895,
+    "Longitude": 15.44949904,
+    "City": "Graz",
+    "Country": "Austria",
+    "Country Abbreviation": "AT"
+  },
+  {
+    "Index": 300,
+    "Image": "image322",
+    "Latitude": 49.5539387,
+    "Longitude": 25.59117071,
+    "City": "Ternopil'",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 301,
+    "Image": "image323",
+    "Latitude": 47.71013256,
+    "Longitude": 40.21381623,
+    "City": "Shakhty",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 302,
+    "Image": "image324",
+    "Latitude": 50.27940331,
+    "Longitude": 127.5389824,
+    "City": "Blagoveshchensk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 303,
+    "Image": "image327",
+    "Latitude": 40.49883103,
+    "Longitude": -3.730432673,
+    "City": "Fuencarral-El Pardo",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 304,
+    "Image": "image328",
+    "Latitude": 49.06363008,
+    "Longitude": 33.40727079,
+    "City": "Kremenchuk",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 305,
+    "Image": "image329",
+    "Latitude": 38.19432629,
+    "Longitude": 15.55228403,
+    "City": "Messina",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 306,
+    "Image": "image330",
+    "Latitude": 41.45001079,
+    "Longitude": 2.247319086,
+    "City": "Badalona",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 307,
+    "Image": "image331",
+    "Latitude": 51.48105292,
+    "Longitude": 6.898546861,
+    "City": "Oberhausen",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 308,
+    "Image": "image332",
+    "Latitude": 45.42986088,
+    "Longitude": 10.98437293,
+    "City": "Verona",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 309,
+    "Image": "image333",
+    "Latitude": 53.90603433,
+    "Longitude": 86.72093309,
+    "City": "Prokop'yevsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 310,
+    "Image": "image334",
+    "Latitude": 41.56644719,
+    "Longitude": 2.01616024,
+    "City": "Terrassa",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 311,
+    "Image": "image335",
+    "Latitude": 52.19458398,
+    "Longitude": 21.03359055,
+    "City": "Mokotow",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 312,
+    "Image": "image336",
+    "Latitude": 58.04459309,
+    "Longitude": 38.84222765,
+    "City": "Rybinsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 313,
+    "Image": "image337",
+    "Latitude": 55.70147112,
+    "Longitude": 37.8127057,
+    "City": "Vykhino-Zhulebino",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 314,
+    "Image": "image338",
+    "Latitude": 47.98869576,
+    "Longitude": 7.892221334,
+    "City": "Freiburg",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 315,
+    "Image": "image339",
+    "Latitude": 52.25166047,
+    "Longitude": -0.884961684,
+    "City": "Northampton",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 316,
+    "Image": "image340",
+    "Latitude": 55.98247494,
+    "Longitude": 37.1806275,
+    "City": "Zelenograd",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 317,
+    "Image": "image341",
+    "Latitude": 51.56621922,
+    "Longitude": -0.134906598,
+    "City": "Holloway",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 318,
+    "Image": "image342",
+    "Latitude": 52.53643047,
+    "Longitude": 85.20725276,
+    "City": "Biysk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 319,
+    "Image": "image343",
+    "Latitude": 45.2526091,
+    "Longitude": 19.8382025,
+    "City": "Novi Sad",
+    "Country": "Serbia",
+    "Country Abbreviation": "RS"
+  },
+  {
+    "Index": 320,
+    "Image": "image344",
+    "Latitude": 58.52066709,
+    "Longitude": 31.26891419,
+    "City": "Velikiy Novgorod",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 321,
+    "Image": "image345",
+    "Latitude": 59.93135003,
+    "Longitude": 30.35989016,
+    "City": "Centralniy",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 322,
+    "Image": "image346",
+    "Latitude": 50.75915276,
+    "Longitude": 25.34248603,
+    "City": "Luts'k",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 323,
+    "Image": "image347",
+    "Latitude": 60.39302192,
+    "Longitude": 5.323939952,
+    "City": "Bergen",
+    "Country": "Norway",
+    "Country Abbreviation": "NO"
+  },
+  {
+    "Index": 324,
+    "Image": "image348",
+    "Latitude": 45.27147025,
+    "Longitude": 27.97360044,
+    "City": "Braila",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 325,
+    "Image": "image349",
+    "Latitude": 52.62803682,
+    "Longitude": 1.298382467,
+    "City": "Norwich",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 326,
+    "Image": "image350",
+    "Latitude": 53.86594477,
+    "Longitude": 10.68356087,
+    "City": "Luebeck",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 327,
+    "Image": "image351",
+    "Latitude": 37.60581737,
+    "Longitude": -0.986307886,
+    "City": "Cartagena",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 328,
+    "Image": "image352",
+    "Latitude": 51.44078729,
+    "Longitude": 5.478106574,
+    "City": "Eindhoven",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 329,
+    "Image": "image353",
+    "Latitude": 48.11194824,
+    "Longitude": -1.675277362,
+    "City": "Rennes",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 330,
+    "Image": "image354",
+    "Latitude": 50.87043452,
+    "Longitude": 20.62706044,
+    "City": "Kielce",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 331,
+    "Image": "image355",
+    "Latitude": 36.68632451,
+    "Longitude": -6.13568802,
+    "City": "Jerez de la Frontera",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 332,
+    "Image": "image356",
+    "Latitude": 47.04614051,
+    "Longitude": 21.91896236,
+    "City": "Oradea",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 333,
+    "Image": "image357",
+    "Latitude": 41.54180784,
+    "Longitude": 2.110034551,
+    "City": "Sabadell",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 334,
+    "Image": "image358",
+    "Latitude": 40.32254344,
+    "Longitude": -3.865431271,
+    "City": "Mostoles",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 335,
+    "Image": "image359",
+    "Latitude": 48.30636609,
+    "Longitude": 14.28584099,
+    "City": "Linz",
+    "Country": "Austria",
+    "Country Abbreviation": "AT"
+  },
+  {
+    "Index": 336,
+    "Image": "image360",
+    "Latitude": 40.4818744,
+    "Longitude": -3.358883678,
+    "City": "Alcala de Henares",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 337,
+    "Image": "image361",
+    "Latitude": 47.53181577,
+    "Longitude": 21.62454816,
+    "City": "Debrecen",
+    "Country": "Hungary",
+    "Country Abbreviation": "HU"
+  },
+  {
+    "Index": 338,
+    "Image": "image362",
+    "Latitude": 45.40768634,
+    "Longitude": 11.88537269,
+    "City": "Padova",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 339,
+    "Image": "image364",
+    "Latitude": 59.94328074,
+    "Longitude": 30.26122317,
+    "City": "Vasyl'evsky Ostrov",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 340,
+    "Image": "image365",
+    "Latitude": 61.49937334,
+    "Longitude": 23.7866205,
+    "City": "Tampere",
+    "Country": "Finland",
+    "Country Abbreviation": "FI"
+  },
+  {
+    "Index": 341,
+    "Image": "image366",
+    "Latitude": 53.46117117,
+    "Longitude": 9.984359193,
+    "City": "Harburg",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 342,
+    "Image": "image367",
+    "Latitude": 57.81373506,
+    "Longitude": 28.35133184,
+    "City": "Pskov",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 343,
+    "Image": "image368",
+    "Latitude": 48.15975798,
+    "Longitude": 16.38569607,
+    "City": "Leopoldsdorf",
+    "Country": "Austria",
+    "Country Abbreviation": "AT"
+  },
+  {
+    "Index": 344,
+    "Image": "image370",
+    "Latitude": 50.41152211,
+    "Longitude": 4.444124742,
+    "City": "Charleroi",
+    "Country": "Belgium",
+    "Country Abbreviation": "BE"
+  },
+  {
+    "Index": 345,
+    "Image": "image371",
+    "Latitude": 55.93639984,
+    "Longitude": 37.55329082,
+    "City": "Severnyy",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 346,
+    "Image": "image372",
+    "Latitude": 51.55603243,
+    "Longitude": 5.091208436,
+    "City": "Tilburg",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 347,
+    "Image": "image373",
+    "Latitude": 52.02808434,
+    "Longitude": 47.79887791,
+    "City": "Balakovo",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 348,
+    "Image": "image374",
+    "Latitude": 44.98854465,
+    "Longitude": 41.12409982,
+    "City": "Armavir",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 349,
+    "Image": "image375",
+    "Latitude": 49.80018073,
+    "Longitude": 30.12831604,
+    "City": "Bila Tserkva",
+    "Country": "Ukraine",
+    "Country Abbreviation": "UA"
+  },
+  {
+    "Index": 350,
+    "Image": "image376",
+    "Latitude": 52.50107028,
+    "Longitude": -2.084145167,
+    "City": "Dudley",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 351,
+    "Image": "image377",
+    "Latitude": 51.41765819,
+    "Longitude": 7.478195528,
+    "City": "Herdecke",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 352,
+    "Image": "image378",
+    "Latitude": 50.29769562,
+    "Longitude": 18.67740198,
+    "City": "Gliwice",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 353,
+    "Image": "image379",
+    "Latitude": 53.01401958,
+    "Longitude": 18.59841602,
+    "City": "Torun",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 354,
+    "Image": "image380",
+    "Latitude": 42.81684293,
+    "Longitude": -1.643447531,
+    "City": "Pamplona",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 355,
+    "Image": "image382",
+    "Latitude": 40.28400349,
+    "Longitude": -3.794147055,
+    "City": "Fuenlabrada",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 356,
+    "Image": "image383",
+    "Latitude": 57.14468874,
+    "Longitude": -2.097078642,
+    "City": "Aberdeen",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 357,
+    "Image": "image384",
+    "Latitude": 49.26553457,
+    "Longitude": 4.025783826,
+    "City": "Reims",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 358,
+    "Image": "image385",
+    "Latitude": 51.48427543,
+    "Longitude": 46.10596265,
+    "City": "Engel's",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 359,
+    "Image": "image386",
+    "Latitude": 42.50628057,
+    "Longitude": 27.46774343,
+    "City": "Burgas",
+    "Country": "Bulgaria",
+    "Country Abbreviation": "BG"
+  },
+  {
+    "Index": 360,
+    "Image": "image388",
+    "Latitude": 64.56320317,
+    "Longitude": 39.83043547,
+    "City": "Severodvinsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 361,
+    "Image": "image389",
+    "Latitude": 50.7983153,
+    "Longitude": -1.091102975,
+    "City": "Portsmouth",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 362,
+    "Image": "image390",
+    "Latitude": 54.97322239,
+    "Longitude": -1.613704832,
+    "City": "Newcastle upon Tyne",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 363,
+    "Image": "image391",
+    "Latitude": 55.70706282,
+    "Longitude": 21.13919495,
+    "City": "Klaipeda",
+    "Country": "Lithuania",
+    "Country Abbreviation": "LT"
+  },
+  {
+    "Index": 364,
+    "Image": "image392",
+    "Latitude": 50.32807676,
+    "Longitude": 18.78257781,
+    "City": "Zabrze",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 365,
+    "Image": "image393",
+    "Latitude": 55.1714347,
+    "Longitude": 59.65006238,
+    "City": "Zlatoust",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 366,
+    "Image": "image394",
+    "Latitude": 51.89804377,
+    "Longitude": -8.47050761,
+    "City": "Cork",
+    "Country": "Ireland",
+    "Country Abbreviation": "IE"
+  },
+  {
+    "Index": 367,
+    "Image": "image395",
+    "Latitude": 60.294091,
+    "Longitude": 25.04096057,
+    "City": "Vantaa",
+    "Country": "Finland",
+    "Country Abbreviation": "FI"
+  },
+  {
+    "Index": 368,
+    "Image": "image396",
+    "Latitude": 53.15778505,
+    "Longitude": 48.46719772,
+    "City": "Syzran'",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 369,
+    "Image": "image397",
+    "Latitude": 50.34815487,
+    "Longitude": 18.93351058,
+    "City": "Bytom",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 370,
+    "Image": "image398",
+    "Latitude": 36.83802871,
+    "Longitude": -2.45983946,
+    "City": "Almeria",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 371,
+    "Image": "image399",
+    "Latitude": 51.35290513,
+    "Longitude": -0.200273696,
+    "City": "Sutton",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 372,
+    "Image": "image400",
+    "Latitude": 53.0640802,
+    "Longitude": 158.6279647,
+    "City": "Petropavlovsk-Kamchatsky",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 373,
+    "Image": "image401",
+    "Latitude": 45.64983938,
+    "Longitude": 13.77665618,
+    "City": "Trieste",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 374,
+    "Image": "image402",
+    "Latitude": 48.23420782,
+    "Longitude": 16.46547868,
+    "City": "Gerasdorf bei Wien",
+    "Country": "Austria",
+    "Country Abbreviation": "AT"
+  },
+  {
+    "Index": 375,
+    "Image": "image403",
+    "Latitude": 40.32714851,
+    "Longitude": -3.764926542,
+    "City": "Leganes",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 376,
+    "Image": "image404",
+    "Latitude": 49.49385701,
+    "Longitude": 0.107707047,
+    "City": "Le Havre",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 377,
+    "Image": "image405",
+    "Latitude": 51.55811115,
+    "Longitude": -1.782255794,
+    "City": "Swindon",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 378,
+    "Image": "image406",
+    "Latitude": 43.31270202,
+    "Longitude": -1.973446709,
+    "City": "San Sebastian",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 379,
+    "Image": "image408",
+    "Latitude": 45.53692424,
+    "Longitude": 10.21672556,
+    "City": "Brescia",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 380,
+    "Image": "image409",
+    "Latitude": 46.20290387,
+    "Longitude": 6.145324296,
+    "City": "Geneve",
+    "Country": "Switzerland",
+    "Country Abbreviation": "CH"
+  },
+  {
+    "Index": 381,
+    "Image": "image410",
+    "Latitude": 49.03898183,
+    "Longitude": 2.078232375,
+    "City": "Cergy-Pontoise",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 382,
+    "Image": "image411",
+    "Latitude": 41.3735959,
+    "Longitude": 2.154849645,
+    "City": "Sants-Montjuic",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 383,
+    "Image": "image412",
+    "Latitude": 43.46459749,
+    "Longitude": -3.80436449,
+    "City": "Santander",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 384,
+    "Image": "image413",
+    "Latitude": 50.63352866,
+    "Longitude": 5.567203171,
+    "City": "Liege",
+    "Country": "Belgium",
+    "Country Abbreviation": "BE"
+  },
+  {
+    "Index": 385,
+    "Image": "image414",
+    "Latitude": 56.41856093,
+    "Longitude": 61.93035913,
+    "City": "Kamensk-Ural'skiy",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 386,
+    "Image": "image415",
+    "Latitude": 43.88052849,
+    "Longitude": 11.09696723,
+    "City": "Prato",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 387,
+    "Image": "image416",
+    "Latitude": 49.20871916,
+    "Longitude": 6.977502929,
+    "City": "Spicheren",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 388,
+    "Image": "image417",
+    "Latitude": 53.21921304,
+    "Longitude": 6.566981541,
+    "City": "Groningen",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 389,
+    "Image": "image418",
+    "Latitude": 40.46437018,
+    "Longitude": 17.24705707,
+    "City": "Taranto",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 390,
+    "Image": "image419",
+    "Latitude": 51.11417434,
+    "Longitude": -0.184630072,
+    "City": "Crawley",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 391,
+    "Image": "image420",
+    "Latitude": 39.98558424,
+    "Longitude": -0.049276221,
+    "City": "Castello de la Plana",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 392,
+    "Image": "image421",
+    "Latitude": 55.607789,
+    "Longitude": 37.52472473,
+    "City": "Yasenevo",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 393,
+    "Image": "image422",
+    "Latitude": 52.24351671,
+    "Longitude": 21.08661765,
+    "City": "Praga Poludnie",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 394,
+    "Image": "image423",
+    "Latitude": 55.42679184,
+    "Longitude": 37.5577396,
+    "City": "Podol'sk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 395,
+    "Image": "image425",
+    "Latitude": 42.34073852,
+    "Longitude": -3.702060785,
+    "City": "Burgos",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 396,
+    "Image": "image426",
+    "Latitude": 38.75330885,
+    "Longitude": -9.229996736,
+    "City": "Amadora",
+    "Country": "Portugal",
+    "Country Abbreviation": "PT"
+  },
+  {
+    "Index": 397,
+    "Image": "image427",
+    "Latitude": 52.05915483,
+    "Longitude": 1.155489952,
+    "City": "Ipswich",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 398,
+    "Image": "image428",
+    "Latitude": 49.82271861,
+    "Longitude": 19.04589269,
+    "City": "Bielsko-Biala",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 399,
+    "Image": "image429",
+    "Latitude": 46.95433757,
+    "Longitude": 142.735976,
+    "City": "Yuzhno-Sakhalinsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 400,
+    "Image": "image430",
+    "Latitude": 52.37059009,
+    "Longitude": 5.213949678,
+    "City": "Almere Stad",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 401,
+    "Image": "image431",
+    "Latitude": 43.50894333,
+    "Longitude": 16.43975899,
+    "City": "Split",
+    "Country": "Croatia",
+    "Country Abbreviation": "HR"
+  },
+  {
+    "Index": 402,
+    "Image": "image432",
+    "Latitude": 45.43348439,
+    "Longitude": 4.390086103,
+    "City": "Saint-Etienne",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 403,
+    "Image": "image433",
+    "Latitude": 60.45145582,
+    "Longitude": 22.26880206,
+    "City": "Turku",
+    "Country": "Finland",
+    "Country Abbreviation": "FI"
+  },
+  {
+    "Index": 404,
+    "Image": "image434",
+    "Latitude": 53.54358342,
+    "Longitude": -2.636904116,
+    "City": "Ince-in-Makerfield",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 405,
+    "Image": "image435",
+    "Latitude": 51.38346446,
+    "Longitude": -0.098203032,
+    "City": "Croydon",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 406,
+    "Image": "image436",
+    "Latitude": 48.10305531,
+    "Longitude": 20.7781733,
+    "City": "Miskolc",
+    "Country": "Hungary",
+    "Country Abbreviation": "HU"
+  },
+  {
+    "Index": 407,
+    "Image": "image437",
+    "Latitude": 52.5852539,
+    "Longitude": -1.984019744,
+    "City": "Walsall",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 408,
+    "Image": "image438",
+    "Latitude": 51.52417282,
+    "Longitude": 7.249895547,
+    "City": "Herne",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 409,
+    "Image": "image439",
+    "Latitude": 55.67707039,
+    "Longitude": 37.76014829,
+    "City": "Lyublino",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 410,
+    "Image": "image440",
+    "Latitude": 53.13483641,
+    "Longitude": -1.199856939,
+    "City": "Mansfield",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 411,
+    "Image": "image441",
+    "Latitude": 53.78002826,
+    "Longitude": 20.49243158,
+    "City": "Olsztyn",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 412,
+    "Image": "image443",
+    "Latitude": 46.56725408,
+    "Longitude": 26.91400578,
+    "City": "Bacau",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 413,
+    "Image": "image444",
+    "Latitude": 51.75224891,
+    "Longitude": -1.255848817,
+    "City": "Oxford",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 414,
+    "Image": "image445",
+    "Latitude": 51.45240654,
+    "Longitude": 6.917253328,
+    "City": "Muelheim (Ruhr)",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 415,
+    "Image": "image446",
+    "Latitude": 38.99408964,
+    "Longitude": -1.856512891,
+    "City": "Albacete",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 416,
+    "Image": "image447",
+    "Latitude": 38.11046244,
+    "Longitude": 15.6618051,
+    "City": "Reggio Calabria",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 417,
+    "Image": "image448",
+    "Latitude": 46.18433257,
+    "Longitude": 21.31642596,
+    "City": "Arad",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 418,
+    "Image": "image450",
+    "Latitude": 43.124361,
+    "Longitude": 5.928321302,
+    "City": "Toulon",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 419,
+    "Image": "image451",
+    "Latitude": 47.47158746,
+    "Longitude": -0.552004653,
+    "City": "Angers",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 420,
+    "Image": "image452",
+    "Latitude": 41.41858964,
+    "Longitude": 2.169161443,
+    "City": "Horta-Guinardo",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 421,
+    "Image": "image453",
+    "Latitude": 38.24477813,
+    "Longitude": 21.73366471,
+    "City": "Patra",
+    "Country": "Greece",
+    "Country Abbreviation": "GR"
+  },
+  {
+    "Index": 422,
+    "Image": "image454",
+    "Latitude": 40.34561944,
+    "Longitude": -3.824944733,
+    "City": "Alcorcon",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 423,
+    "Image": "image455",
+    "Latitude": 59.40883035,
+    "Longitude": 56.8202671,
+    "City": "Berezniki",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 424,
+    "Image": "image456",
+    "Latitude": 47.5133588,
+    "Longitude": 42.15178667,
+    "City": "Volgodonsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 425,
+    "Image": "image457",
+    "Latitude": 51.58658814,
+    "Longitude": 4.776130583,
+    "City": "Breda",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 426,
+    "Image": "image458",
+    "Latitude": 44.84999938,
+    "Longitude": 24.86660797,
+    "City": "Pitesti",
+    "Country": "Romania",
+    "Country Abbreviation": "RO"
+  },
+  {
+    "Index": 427,
+    "Image": "image459",
+    "Latitude": 55.04558472,
+    "Longitude": 60.10819133,
+    "City": "Miass",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 428,
+    "Image": "image460",
+    "Latitude": 53.71605865,
+    "Longitude": 91.43196096,
+    "City": "Abakan",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 429,
+    "Image": "image461",
+    "Latitude": 52.4781259,
+    "Longitude": 13.43090913,
+    "City": "Berlin Treptow",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 430,
+    "Image": "image462",
+    "Latitude": 40.30582619,
+    "Longitude": -3.733788621,
+    "City": "Getafe",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 431,
+    "Image": "image463",
+    "Latitude": 47.4212893,
+    "Longitude": 40.09205481,
+    "City": "Novocherkassk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 432,
+    "Image": "image465",
+    "Latitude": 41.44128967,
+    "Longitude": 2.177088823,
+    "City": "Nou Barris",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 433,
+    "Image": "image466",
+    "Latitude": 53.39283788,
+    "Longitude": -2.580631936,
+    "City": "Warrington",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 434,
+    "Image": "image467",
+    "Latitude": 46.25295143,
+    "Longitude": 20.14822518,
+    "City": "Szeged",
+    "Country": "Hungary",
+    "Country Abbreviation": "HU"
+  },
+  {
+    "Index": 435,
+    "Image": "image468",
+    "Latitude": 47.55629334,
+    "Longitude": 7.575512346,
+    "City": "Basel",
+    "Country": "Switzerland",
+    "Country Abbreviation": "CH"
+  },
+  {
+    "Index": 436,
+    "Image": "image470",
+    "Latitude": 51.17762329,
+    "Longitude": 7.12441799,
+    "City": "Solingen",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 437,
+    "Image": "image471",
+    "Latitude": 49.7473007,
+    "Longitude": 13.37669064,
+    "City": "Pilsen",
+    "Country": "Czech Republic",
+    "Country Abbreviation": "CZ"
+  },
+  {
+    "Index": 438,
+    "Image": "image472",
+    "Latitude": 43.21912965,
+    "Longitude": 44.75525771,
+    "City": "Magas",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 439,
+    "Image": "image473",
+    "Latitude": 51.50957599,
+    "Longitude": -0.59561501,
+    "City": "Slough",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 440,
+    "Image": "image474",
+    "Latitude": 37.94112188,
+    "Longitude": 23.64777116,
+    "City": "Piraeus",
+    "Country": "Greece",
+    "Country Abbreviation": "GR"
+  },
+  {
+    "Index": 441,
+    "Image": "image475",
+    "Latitude": 50.72046058,
+    "Longitude": -1.879394844,
+    "City": "Bournemouth",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 442,
+    "Image": "image476",
+    "Latitude": 52.57356204,
+    "Longitude": -0.247707549,
+    "City": "Peterborough",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 443,
+    "Image": "image477",
+    "Latitude": 49.48653248,
+    "Longitude": 8.452956573,
+    "City": "Ludwigshafen am Rhein",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 444,
+    "Image": "image478",
+    "Latitude": 48.24661122,
+    "Longitude": 16.4000858,
+    "City": "Vienna",
+    "Country": "Austria",
+    "Country Abbreviation": "AT"
+  },
+  {
+    "Index": 445,
+    "Image": "image479",
+    "Latitude": 51.0258421,
+    "Longitude": 6.960427862,
+    "City": "Leverkusen",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 446,
+    "Image": "image480",
+    "Latitude": 40.47501514,
+    "Longitude": -3.641270789,
+    "City": "Hortaleza",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 447,
+    "Image": "image481",
+    "Latitude": 51.51436143,
+    "Longitude": 81.2059993,
+    "City": "Rubtsovsk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 448,
+    "Image": "image482",
+    "Latitude": 50.83610227,
+    "Longitude": 4.314858483,
+    "City": "Brussels",
+    "Country": "Belgium",
+    "Country Abbreviation": "BE"
+  },
+  {
+    "Index": 449,
+    "Image": "image483",
+    "Latitude": 55.91123239,
+    "Longitude": 37.73133335,
+    "City": "Mytishchi",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 450,
+    "Image": "image484",
+    "Latitude": 53.38258764,
+    "Longitude": 55.90752984,
+    "City": "Salavat",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 451,
+    "Image": "image485",
+    "Latitude": 53.13789085,
+    "Longitude": 8.21641343,
+    "City": "Oldenburg",
+    "Country": "Germany",
+    "Country Abbreviation": "DE"
+  },
+  {
+    "Index": 452,
+    "Image": "image486",
+    "Latitude": 55.78053832,
+    "Longitude": 37.46591615,
+    "City": "Khoroshevo-Mnevniki",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 453,
+    "Image": "image487",
+    "Latitude": 55.88077263,
+    "Longitude": 37.59771192,
+    "City": "Bibirevo",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 454,
+    "Image": "image488",
+    "Latitude": 44.64826977,
+    "Longitude": 10.92649939,
+    "City": "Modena",
+    "Country": "Italy",
+    "Country Abbreviation": "IT"
+  },
+  {
+    "Index": 455,
+    "Image": "image489",
+    "Latitude": 51.8425209,
+    "Longitude": 5.852824501,
+    "City": "Nijmegen",
+    "Country": "Netherlands",
+    "Country Abbreviation": "NL"
+  },
+  {
+    "Index": 456,
+    "Image": "image490",
+    "Latitude": 45.17880278,
+    "Longitude": 5.714943947,
+    "City": "Grenoble",
+    "Country": "France",
+    "Country Abbreviation": "FR"
+  },
+  {
+    "Index": 457,
+    "Image": "image491",
+    "Latitude": 52.2000848,
+    "Longitude": 0.115700797,
+    "City": "Cambridge",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 458,
+    "Image": "image492",
+    "Latitude": 50.04136176,
+    "Longitude": 21.99902972,
+    "City": "Rzeszow",
+    "Country": "Poland",
+    "Country Abbreviation": "PL"
+  },
+  {
+    "Index": 459,
+    "Image": "image493",
+    "Latitude": 53.52338191,
+    "Longitude": -1.131653945,
+    "City": "Doncaster",
+    "Country": "United Kingdom",
+    "Country Abbreviation": "GB"
+  },
+  {
+    "Index": 460,
+    "Image": "image494",
+    "Latitude": 55.82355185,
+    "Longitude": 37.81701773,
+    "City": "Gol'yanovo",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 461,
+    "Image": "image495",
+    "Latitude": 59.90939836,
+    "Longitude": 30.28784326,
+    "City": "Admiralteisky",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 462,
+    "Image": "image496",
+    "Latitude": 40.43929547,
+    "Longitude": -3.614260969,
+    "City": "San Blas",
+    "Country": "Spain",
+    "Country Abbreviation": "ES"
+  },
+  {
+    "Index": 463,
+    "Image": "image497",
+    "Latitude": 43.8029287,
+    "Longitude": 131.9463552,
+    "City": "Ussuriysk",
+    "Country": "Russia",
+    "Country Abbreviation": "RU"
+  },
+  {
+    "Index": 464,
+    "Image": "image499",
+    "Latitude": 46.07248632,
+    "Longitude": 18.23086844,
+    "City": "Pecs",
+    "Country": "Hungary",
+    "Country Abbreviation": "HU"
+  }
+]
